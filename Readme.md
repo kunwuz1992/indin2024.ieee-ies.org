@@ -1,2 +1,2 @@
-# icps2024.ieee-ies.org
-IEEE ICPS 2024 Conference
+# indin2024.ieee-ies.org
+IEEE INDIN 2024 Conference
